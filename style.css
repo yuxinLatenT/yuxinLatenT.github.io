@@ -1,6 +1,16 @@
 body {
+    height: 1500px;
     background-image: url("./pictures/background0.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+
+header {
+    position: fixed;
+    height: 220px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
 }
